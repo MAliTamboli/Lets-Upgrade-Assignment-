@@ -1,0 +1,25 @@
+
+		COMPILER                         INTERPRETER
+
+  1)    It takes an entire                    It takes a single line of code
+ 	program at a time.                    or instruction at a time.
+
+  2)    It generates intermediate             It does not produce any
+	object code.                          intermediate object code.
+
+  3)	The compilation is. done              Compilation and execution
+	before execution.                     take place simultaneously.
+
+  4)    comparatively faster                  Slower
+
+  5)  	Memory requirement is  	              It requires less memory as it
+	more due to the creation              does not create intermediate
+	of object code.                       object code.
+
+  6)    Display all errors after	      Displays error of each line
+	compilation,all at the same time.     one by one.
+							    
+  7)    Difficult                             Easier comparatively
+
+  8)    c,c++,C#, Scala,                      PHP,Perl,Python,Ruby uses
+	typescript uses compiler.             an interpreter.
